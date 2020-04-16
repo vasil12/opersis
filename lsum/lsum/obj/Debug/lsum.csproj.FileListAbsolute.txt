@@ -1,0 +1,6 @@
+C:\Users\ibook\Desktop\opsis\lsum\lsum\bin\Debug\lsum.dll
+C:\Users\ibook\Desktop\opsis\lsum\lsum\bin\Debug\lsum.pdb
+C:\Users\ibook\Desktop\opsis\lsum\lsum\obj\Debug\lsum.csproj.CoreCompileInputs.cache
+C:\Users\ibook\Desktop\opsis\lsum\lsum\obj\Debug\lsum.dll
+C:\Users\ibook\Desktop\opsis\lsum\lsum\obj\Debug\lsum.pdb
+C:\Users\ibook\Desktop\opsis\lsum\lsum\obj\Debug\lsum.csprojAssemblyReference.cache

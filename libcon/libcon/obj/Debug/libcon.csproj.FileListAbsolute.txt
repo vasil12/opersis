@@ -1,0 +1,6 @@
+C:\Users\ibook\Desktop\opsis\libcon\libcon\bin\Debug\libcon.dll
+C:\Users\ibook\Desktop\opsis\libcon\libcon\bin\Debug\libcon.pdb
+C:\Users\ibook\Desktop\opsis\libcon\libcon\obj\Debug\libcon.csprojAssemblyReference.cache
+C:\Users\ibook\Desktop\opsis\libcon\libcon\obj\Debug\libcon.csproj.CoreCompileInputs.cache
+C:\Users\ibook\Desktop\opsis\libcon\libcon\obj\Debug\libcon.dll
+C:\Users\ibook\Desktop\opsis\libcon\libcon\obj\Debug\libcon.pdb
