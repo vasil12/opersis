@@ -42,6 +42,7 @@
             this.namberOfWindowToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.exitToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.lab3ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.lab4ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -50,7 +51,8 @@
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.lab1ToolStripMenuItem,
             this.lab2ToolStripMenuItem,
-            this.lab3ToolStripMenuItem});
+            this.lab3ToolStripMenuItem,
+            this.lab4ToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(641, 24);
@@ -161,6 +163,13 @@
             this.lab3ToolStripMenuItem.Text = "lab3";
             this.lab3ToolStripMenuItem.Click += new System.EventHandler(this.Lab3ToolStripMenuItem_Click);
             // 
+            // lab4ToolStripMenuItem
+            // 
+            this.lab4ToolStripMenuItem.Name = "lab4ToolStripMenuItem";
+            this.lab4ToolStripMenuItem.Size = new System.Drawing.Size(41, 20);
+            this.lab4ToolStripMenuItem.Text = "lab4";
+            this.lab4ToolStripMenuItem.Click += new System.EventHandler(this.Lab4ToolStripMenuItem_Click);
+            // 
             // menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -197,5 +206,6 @@
         private System.Windows.Forms.ToolStripMenuItem exitToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem placeInWindowVerticalToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem lab3ToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem lab4ToolStripMenuItem;
     }
 }

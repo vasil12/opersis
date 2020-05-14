@@ -107,12 +107,12 @@ namespace WindowsFormsApp1
         }
         private void Form3_Deactivate(object sender, EventArgs e)
         {
-           this.Opacity = 1;
+           //this.Opacity = 1;
         }
 
         private void Form3_Activated(object sender, EventArgs e)
         {
-            this.Opacity = .60;
+            //this.Opacity = .60;
         }
 
         private void Form3_Load(object sender, EventArgs e)
@@ -135,7 +135,7 @@ namespace WindowsFormsApp1
             qwe = CreateRoundRectRgn(175, 145, 180, 160, 0, 0); // 4
             CombineRgn(hRgn, hRgn, qwe, 2);
 
-            SetWindowRgn(this.Handle, hRgn, true);
+            //SetWindowRgn(this.Handle, hRgn, true);
         }
     }
 }

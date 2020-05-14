@@ -1,0 +1,43 @@
+﻿  operatsistem5.cpp
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(101,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(108,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(115,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(122,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(176,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(183,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(190,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(197,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(204,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(211,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(218,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(225,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(232,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(239,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(246,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(253,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(261,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(269,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(276,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(283,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"
+C:\Users\ibook\Desktop\opsis\operatsistem5\operatsistem5\operatsistem5.cpp(291,1): error C4996:  'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message :   см. объявление "fopen"

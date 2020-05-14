@@ -1,0 +1,7 @@
+C:\Users\ibook\Desktop\opsis\op\op\bin\Debug\op.exe.config
+C:\Users\ibook\Desktop\opsis\op\op\bin\Debug\op.exe
+C:\Users\ibook\Desktop\opsis\op\op\bin\Debug\op.pdb
+C:\Users\ibook\Desktop\opsis\op\op\obj\Debug\op.csprojAssemblyReference.cache
+C:\Users\ibook\Desktop\opsis\op\op\obj\Debug\op.csproj.CoreCompileInputs.cache
+C:\Users\ibook\Desktop\opsis\op\op\obj\Debug\op.exe
+C:\Users\ibook\Desktop\opsis\op\op\obj\Debug\op.pdb

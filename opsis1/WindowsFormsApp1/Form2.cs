@@ -129,6 +129,12 @@ public partial class menu : Form
             //f.Opacity = .50;
             
         }
+
+        private void Lab4ToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Form f = new Form4();
+            f.Show();
+        }
     }
     
 }
